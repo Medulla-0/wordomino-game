@@ -6,8 +6,20 @@ A Turkish word-puzzle game for Android, designed and built by me in Unity 6 and 
 **Role:** Solo developer (design, gameplay code, UI, release). Built with an AI-assisted workflow; I own the design decisions and can walk through every system.
 **Source code:** private. I'm happy to walk through it on a call or screen share.
 
-> Add here: 20-40 second gameplay GIF or video, then 3-4 screenshots.
-> `![Gameplay](docs/gameplay.gif)`
+<p align="center">
+  <img src="docs/gameplay.gif" alt="Wordomino gameplay" width="300">
+</p>
+
+<p align="center"><a href="docs/gameplay.mp4"><b>Watch the full gameplay video (MP4, 46 s)</b></a> · No download needed.</p>
+
+<p align="center">
+  <img src="docs/01-menu.jpg" width="180" alt="Main menu">
+  <img src="docs/02-gameplay.jpg" width="180" alt="Gameplay">
+  <img src="docs/03-word-solved.jpg" width="180" alt="Word solved">
+  <img src="docs/04-shared-cells.jpg" width="180" alt="Shared cells">
+</p>
+
+<sub>Recorded in the Unity editor from a scripted test player (not a human run).</sub>
 
 ---
 
@@ -30,7 +42,7 @@ Unity 6, C#, 2D URP, uGUI, TextMeshPro, Android (IL2CPP, min API 25), AdMob, Goo
 
 ## Try it
 
-1. Download [`Wordomino-1.0.1.apk`](Wordomino-1.0.1.apk) (about 54 MB). It would be better to also publish it under **Releases**.
+1. Download [`Wordomino-1.0.1.apk`](Wordomino-1.0.1.apk) (about 52 MB).
 2. Allow installs from your browser, then open the file. Android 7.1 or newer is required.
 3. Android may show an "unknown app" warning. The app comes from this repo.
 
